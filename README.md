@@ -7,3 +7,4 @@
 2. seaborn for visualization
 3. scikit-learn
 
+### This model can give the accuracy of 78% (according to kaggle) with doing any pre-processing processes beside missing imputation.
